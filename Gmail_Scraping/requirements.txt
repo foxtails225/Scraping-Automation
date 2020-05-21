@@ -39,7 +39,7 @@ ekphrasis==0.4.10
 email-validator==1.0.3
 en-core-web-sm==2.1.0
 eventlet==0.24.1
-Flask==0.12.2
+Flask==1.0
 Flask-Bcrypt==0.7.1
 Flask-Cors==3.0.7
 Flask-DebugToolbar==0.10.1
