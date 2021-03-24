@@ -94,7 +94,7 @@ pytz==2018.3
 PyWavelets==1.0.0
 requests==2.22.0
 requests-file==1.4.3
-rsa==4.0
+rsa==4.1
 s3transfer==0.1.13
 singledispatch==3.4.0.3
 six==1.11.0
